@@ -100,7 +100,7 @@ Threat-intelligence variant of the Cyber Prospect Radar. Instead of looking for
 buying intent, it surfaces **public defensive events** on X — ransomware
 victims, breach disclosures, leaked databases, active malware campaigns,
 exploits, operator chatter, and dark-web mentions — for an internal CTI
-analyst or the sales team of a ransomware-protection vendor (Halcyon).
+analyst or the sales team of a ransomware-protection vendor (CyberSignal).
 
 It shares the same pipeline architecture as the Cyber Prospect Radar; only the
 taxonomy, base scores, LLM prompt, and output filename differ.
