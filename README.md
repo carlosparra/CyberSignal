@@ -20,7 +20,7 @@ Pipeline:
 
 ```
 CyberSignal/
-├── cyber_prospect_radar_x_signal_listener.ipynb   # notebook
+├── cyber_prospect_radar_signal_listener.ipynb   # notebook
 ├── build_notebook.py                              # regenerates the notebook
 ├── documentation/main.md                          # original spec
 └── README.md
@@ -35,7 +35,7 @@ CyberSignal/
    - `getpass` prompt when the cell runs (input hidden, never printed).
 3. Open the notebook:
    ```bash
-   jupyter notebook cyber_prospect_radar_x_signal_listener.ipynb
+   jupyter notebook cyber_prospect_radar_signal_listener.ipynb
    ```
 4. *Run all*.
 

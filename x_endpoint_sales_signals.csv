@@ -1,0 +1,331 @@
+platform,post_id,created_at,author_id,post_text,source_url,matched_query,initial_signal_type,signal_type,confidence,matched_terms,opportunity_score,priority,is_tracker,why_now,sales_angle,safe_outreach_suggestion,like_count,reply_count,retweet_count,quote_count,engagement,cluster
+x,2054608119972700556,2026-05-13 17:02:03+00:00,19358436,"IT teams today are overwhelmed with alerts, dashboards, and disconnected systems.
+
+AIreCONTROL helps organizations move from alert fatigue to proactive resolution.
+
+Reach out to your @AireSpring Channel Manager or email sales@airespring.com to schedule a demo. https://t.co/IFsOW81y50",https://x.com/i/web/status/2054608119972700556,"""overwhelmed with alerts""",OPERATIONAL_PAIN,OPERATIONAL_PAIN,80,"['alert fatigue', 'overwhelmed with alerts']",24,Medium,False,Post describes alert volume or staffing pain that endpoint / MDR can ease.,Lead with MDR or alert-triage offload and time-to-respond metrics.,Internal suggestion: share a one-page MDR-vs-in-house tradeoff doc and offer a 20-min conversation.,0,0,0,0,0,3
+x,2053988218882937027,2026-05-11 23:58:47+00:00,1910592602,"@sama defender false positives are what actually hurts small teams. got cut off by anthropic once for batch API calls that looked like scraping, zero warning, half a day of pipeline down. would happily pay for tighter detection on legit traffic over more novel attack discovery.",https://x.com/i/web/status/2053988218882937027,"(""Defender"" OR ""Microsoft Defender"") (""noisy"" OR ""false positives"" OR ""switching from"")",COMPETITOR_PAIN,COMPETITOR_PAIN,60,['defender false positive'],21,Medium,False,Post signals friction with an incumbent vendor and openness to alternatives.,Lead with a noise-reduction / TCO comparison vs the named incumbent.,Internal suggestion: share a vendor-neutral noise-reduction guide. Do not name the incumbent in the first message.,0,0,0,0,0,2
+x,2055106140074045580,2026-05-15 02:01:00+00:00,2332169250,"Mysten Labs is hiring: Security Engineer
+🌍 Remote
+
+Apply → https://t.co/aV4ILDZmXi
+
+#security #cybersecurity #crypto #web3jobs #hiring",https://x.com/i/web/status/2055106140074045580,"""hiring security engineer""",HIRING_SIGNAL,HIRING_SIGNAL,100,"['hiring: security engineer', 'hiring: security', 'is hiring: security']",20,Medium,False,Post indicates a hiring or leadership change that usually re-opens the security stack review.,"Offer a stack-review conversation with the new leader. No pitch, just listening.","Internal suggestion: send a brief, non-pitchy congrats note and offer a peer intro if useful.",1,0,0,0,1,0
+x,2055167125061288196,2026-05-15 06:03:20+00:00,1969428668503244805,"Alert fatigue isn't just annoying - it's risky. When your system floods you with notifications, real issues get buried. The fix? Prioritize alerts by impact and automate suppression of noise. Focus on signals, not static. #ITOps",https://x.com/i/web/status/2055167125061288196,"""alert fatigue""",OPERATIONAL_PAIN,OPERATIONAL_PAIN,60,['alert fatigue'],18,Medium,False,Post describes alert volume or staffing pain that endpoint / MDR can ease.,Lead with MDR or alert-triage offload and time-to-respond metrics.,Internal suggestion: share a one-page MDR-vs-in-house tradeoff doc and offer a 20-min conversation.,0,0,0,0,0,3
+x,2055051827725426741,2026-05-14 22:25:11+00:00,1862790371379396608,"Today, I learned: • Linux basics and commands
+• How SOC analysts monitor and investigate security alerts
+• Why “alert fatigue” is one of the biggest challenges in cybersecurity operations",https://x.com/i/web/status/2055051827725426741,"""alert fatigue""",OPERATIONAL_PAIN,OPERATIONAL_PAIN,60,['alert fatigue'],18,Medium,False,Post describes alert volume or staffing pain that endpoint / MDR can ease.,Lead with MDR or alert-triage offload and time-to-respond metrics.,Internal suggestion: share a one-page MDR-vs-in-house tradeoff doc and offer a 20-min conversation.,0,1,0,0,1,2
+x,2055001882951598298,2026-05-14 19:06:43+00:00,910846085312196608,"@techday Alert fatigue is a genuine challenge when teams face endless noise. We designed RAI AI to solve this by surfacing only essential data points, properly tagged and filtered from the start. How does your team manage prioritization at scale?",https://x.com/i/web/status/2055001882951598298,"""alert fatigue""",OPERATIONAL_PAIN,OPERATIONAL_PAIN,60,['alert fatigue'],18,Medium,False,Post describes alert volume or staffing pain that endpoint / MDR can ease.,Lead with MDR or alert-triage offload and time-to-respond metrics.,Internal suggestion: share a one-page MDR-vs-in-house tradeoff doc and offer a 20-min conversation.,0,0,0,0,0,3
+x,2054993976277586417,2026-05-14 18:35:18+00:00,258988172,"Most observability teams still face alert fatigue, fragmented telemetry, and missing context during incidents.
+
+This webinar examines where AI is actually improving incident response and root cause analysis and where it still falls short.
+
+Register now: https://t.co/LV71oGHabl https://t.co/WNuGy0XjUb",https://x.com/i/web/status/2054993976277586417,"""alert fatigue""",OPERATIONAL_PAIN,OPERATIONAL_PAIN,60,['alert fatigue'],18,Medium,False,Post describes alert volume or staffing pain that endpoint / MDR can ease.,Lead with MDR or alert-triage offload and time-to-respond metrics.,Internal suggestion: share a one-page MDR-vs-in-house tradeoff doc and offer a 20-min conversation.,0,0,0,0,0,3
+x,2054993834426155477,2026-05-14 18:34:44+00:00,1443240526023729158,"Most observability teams still face alert fatigue, fragmented telemetry, and missing context during incidents.
+
+This webinar examines where AI is actually improving incident response and root cause analysis and where it still falls short.
+
+Register now: https://t.co/OcXtHcxmYV https://t.co/devY0i1II7",https://x.com/i/web/status/2054993834426155477,"""alert fatigue""",OPERATIONAL_PAIN,OPERATIONAL_PAIN,60,['alert fatigue'],18,Medium,False,Post describes alert volume or staffing pain that endpoint / MDR can ease.,Lead with MDR or alert-triage offload and time-to-respond metrics.,Internal suggestion: share a one-page MDR-vs-in-house tradeoff doc and offer a 20-min conversation.,0,0,0,0,0,3
+x,2054969629781401681,2026-05-14 16:58:33+00:00,2575735110,"EDR that works at 500 endpoints ≠ EDR that works at 50,000.
+
+Enterprise SOCs process 134,000+ alerts/day.
+Alert fatigue is a detection gap, not a morale issue.
+
+Scalable EDR framework → link in replies.
+
+#EDR #Cybersecurity #SOC #EndpointSecurity",https://x.com/i/web/status/2054969629781401681,"""alert fatigue""",OPERATIONAL_PAIN,OPERATIONAL_PAIN,60,['alert fatigue'],18,Medium,False,Post describes alert volume or staffing pain that endpoint / MDR can ease.,Lead with MDR or alert-triage offload and time-to-respond metrics.,Internal suggestion: share a one-page MDR-vs-in-house tradeoff doc and offer a 20-min conversation.,0,1,0,0,1,2
+x,2054952972472230350,2026-05-14 15:52:22+00:00,123093566,"On-call shouldn't come with a side of panic every time your phone buzzes. 
+
+We’ve redesigned the Datadog On-Call sound library with empathy at its core, aiming to reduce alert fatigue and the physical stress of those sudden midnight wake-ups. Because building reliable systems https://t.co/Udao90aYh4",https://x.com/i/web/status/2054952972472230350,"""alert fatigue""",OPERATIONAL_PAIN,OPERATIONAL_PAIN,60,['alert fatigue'],18,Medium,False,Post describes alert volume or staffing pain that endpoint / MDR can ease.,Lead with MDR or alert-triage offload and time-to-respond metrics.,Internal suggestion: share a one-page MDR-vs-in-house tradeoff doc and offer a 20-min conversation.,2,0,0,0,2,3
+x,2054908088604365235,2026-05-14 12:54:01+00:00,865495235383631874,"Kenyan banks are under attack. Is yours protected?
+
+✅ 87% faster threat detection
+✅ 93% faster response
+✅ 100% endpoint visibility
+✅ Zero ransomware breaches
+How one leading national bank transformed its cybersecurity posture: https://t.co/iwn0xBzga3 https://t.co/rOITPGylwt",https://x.com/i/web/status/2054908088604365235,"""endpoint visibility""",OPERATIONAL_PAIN,OPERATIONAL_PAIN,60,['endpoint visibility'],18,Medium,False,Post describes alert volume or staffing pain that endpoint / MDR can ease.,Lead with MDR or alert-triage offload and time-to-respond metrics.,Internal suggestion: share a one-page MDR-vs-in-house tradeoff doc and offer a 20-min conversation.,0,0,0,0,0,4
+x,2054877746619191697,2026-05-14 10:53:27+00:00,52965735,"Day 2 at SITS London 2026 and we're still buzzing. 👊 
+
+The conversations around endpoint visibility, device security, and support workflows have been next level. Attending? Find us at Stand 500.
+
+#SITSShow #EndpointManagement #ITOperations https://t.co/2Fg1i8UbWv",https://x.com/i/web/status/2054877746619191697,"""endpoint visibility""",OPERATIONAL_PAIN,OPERATIONAL_PAIN,60,['endpoint visibility'],18,Medium,False,Post describes alert volume or staffing pain that endpoint / MDR can ease.,Lead with MDR or alert-triage offload and time-to-respond metrics.,Internal suggestion: share a one-page MDR-vs-in-house tradeoff doc and offer a 20-min conversation.,0,0,0,0,0,0
+x,2054609454201500121,2026-05-13 17:07:21+00:00,918507477339131904,"Endpoint visibility is the difference between assuming your emulation worked and verifying it did. More from the SCYTHE Labs: https://t.co/bd3tWJrqTq
+
+#APT41 https://t.co/dtTFwLaXEP",https://x.com/i/web/status/2054609454201500121,"""endpoint visibility""",OPERATIONAL_PAIN,OPERATIONAL_PAIN,60,['endpoint visibility'],18,Medium,False,Post describes alert volume or staffing pain that endpoint / MDR can ease.,Lead with MDR or alert-triage offload and time-to-respond metrics.,Internal suggestion: share a one-page MDR-vs-in-house tradeoff doc and offer a 20-min conversation.,1,0,0,0,1,2
+x,2054439582989521341,2026-05-13 05:52:20+00:00,1998399933993697280,"I built a small Windows endpoint visibility tool called WatcherWall.
+
+It shows local TCP/UDP ports as live tiles, maps them to processes, and can create reversible Windows Firewall block rules.
+
+Full writeup, source, security notes, and release here:
+
+#CyberSecurity #Windows https://t.co/8dwwc1Hgct",https://x.com/i/web/status/2054439582989521341,"""endpoint visibility""",OPERATIONAL_PAIN,OPERATIONAL_PAIN,60,['endpoint visibility'],18,Medium,False,Post describes alert volume or staffing pain that endpoint / MDR can ease.,Lead with MDR or alert-triage offload and time-to-respond metrics.,Internal suggestion: share a one-page MDR-vs-in-house tradeoff doc and offer a 20-min conversation.,0,0,0,0,0,2
+x,2054261870660301171,2026-05-12 18:06:10+00:00,2292457914,"Most security architectures deliver strong endpoint visibility, but gaps remain across unmanaged systems and network traffic that lacks clear endpoint signals, creating blind spots where attacker activity can go undetected. Clear NDR analyzes network activity directly, providing https://t.co/KVHmIR9mmu",https://x.com/i/web/status/2054261870660301171,"""endpoint visibility""",OPERATIONAL_PAIN,OPERATIONAL_PAIN,60,['endpoint visibility'],18,Medium,False,Post describes alert volume or staffing pain that endpoint / MDR can ease.,Lead with MDR or alert-triage offload and time-to-respond metrics.,Internal suggestion: share a one-page MDR-vs-in-house tradeoff doc and offer a 20-min conversation.,0,0,0,0,0,2
+x,2054191668924981393,2026-05-12 13:27:13+00:00,1679622840385957888,@HeroUrsula @MountBuri Prince Andrew for example has a small security team who work alongside the main royal security team these guys are all super professional and all ex met police or military.. possibly both they would have warned prince Andrew all about what goes on and to distance himself.. https://t.co/LT1PZwADri,https://x.com/i/web/status/2054191668924981393,"""small security team""",OPERATIONAL_PAIN,OPERATIONAL_PAIN,60,['small security team'],18,Medium,False,Post describes alert volume or staffing pain that endpoint / MDR can ease.,Lead with MDR or alert-triage offload and time-to-respond metrics.,Internal suggestion: share a one-page MDR-vs-in-house tradeoff doc and offer a 20-min conversation.,2,0,0,0,2,2
+x,2052772152831795298,2026-05-08 15:26:34+00:00,2011806350544945156,"🔥 Hiring: Security Engineer @ Parity 🌍 Remote (Global) | Contract 🛡️ Protect the Polkadot ecosystem using Rust, ML, &amp; advanced code auditing! ⚙️ Req: Vulnerability Analysis, Rust, Web3/Blockchain, Machine Learning.
+Apply: https://t.co/8cafFKetDe
+#Cybersecurity #Rust #RemoteJobs",https://x.com/i/web/status/2052772152831795298,"""hiring security engineer""",HIRING_SIGNAL,HIRING_SIGNAL,80,"['hiring: security engineer', 'hiring: security']",16,Low,False,Post indicates a hiring or leadership change that usually re-opens the security stack review.,"Offer a stack-review conversation with the new leader. No pitch, just listening.","Internal suggestion: send a brief, non-pitchy congrats note and offer a peer intro if useful.",1,0,0,0,1,0
+x,2055175677339632006,2026-05-15 06:37:19+00:00,1130587441,"Happycash Secures ISO 27001 Certification, Expands Responsible Lending Measures https://t.co/eaO0L30I8b #Happycash #lending More: https://t.co/GjTNwb07hY",https://x.com/i/web/status/2055175677339632006,"""ISO 27001""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['iso 27001'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",0,0,0,0,0,0
+x,2055165916477059189,2026-05-15 05:58:32+00:00,1569326055605026816,"🛢️Guyana's oil boom creates $15B+ in contracts - but ExxonMobil requires ISO 9001 &amp; 45001 for local suppliers.
+
+ISO 9001. ISO 14001. ISO 45001. ISO 27001. ISO 22000. Each unlocks oil &amp; gas, mining &amp; export markets.
+
+👇 https://t.co/Fiv5vfpMJj
+
+#ISOGuyana https://t.co/gNDQ3Y2hPq",https://x.com/i/web/status/2055165916477059189,"""ISO 27001""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['iso 27001'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",1,0,0,0,1,0
+x,2055125938673779074,2026-05-15 03:19:40+00:00,1898720139962638336,"BloFin is a crypto exchange built for serious traders like me, offering spot and futures with up to 150x leverage, copy trading, bots, and Earn products, all secured by Fireblocks custody and ISO 27001 certification. ""Where whales are made.""🔗 https://t.co/0g5YFBqd7b
+
+BloFin x",https://x.com/i/web/status/2055125938673779074,"""ISO 27001""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['iso 27001'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",4,0,0,0,4,0
+x,2055117234146525694,2026-05-15 02:45:05+00:00,1859780116014141440,"Qilin claims a ransomware attack on Schulte-Lindhorst GmbH &amp; Co., a German manufacturing company. The report was posted on May 14, 2026. #Germany #Manufacturing #Ransomware
+https://t.co/m0jhUAOFpH",https://x.com/i/web/status/2055117234146525694,"""manufacturing ransomware""",INDUSTRY_RISK,INDUSTRY_RISK,100,"['ransomware attack on', 'ransomware attack', '#manufacturing #ransomware', 'manufacturing #ransomware']",15,Low,True,Post references an industry-wide ransomware event that typically lifts buyer urgency.,Share a peer-segment briefing on what is working post-incident. Not a fear pitch.,Internal suggestion: share a sector-specific lessons-learned brief. Do not claim the prospect is compromised.,0,0,0,0,0,4
+x,2055102615684317519,2026-05-15 01:47:00+00:00,3428358964,NEW: Kraken selects Chainlink CCIP as sole cross-chain provider for kBTC and future wrapped assets citing enterprise-grade security including ISO 27001 and SOC 2 Type 2 certifications https://t.co/Hr9AEteLMe,https://x.com/i/web/status/2055102615684317519,"""ISO 27001""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['iso 27001'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",72,0,8,0,80,4
+x,2055099472733196585,2026-05-15 01:34:30+00:00,1417134220758056961,"经过评估后，Kraken认为Chainlink CCIP满足其严格的安全与风险管理要求。
+
+通过采用CCIP，Kraken封装资产将获得机构级跨链安全能力，并由默认安全架构以及ISO 27001与SOC 2 Type 2等机构级认证提供支持。",https://x.com/i/web/status/2055099472733196585,"""ISO 27001""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['iso 27001'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",0,0,0,0,0,4
+x,2055064458217521341,2026-05-14 23:15:22+00:00,1141036778490605568,"Odoo obtiene certificación ISO 27001 y refuerza la seguridad de datos para empresas
+
+#Ciberseguridad
+
+https://t.co/F1etZTUsiJ",https://x.com/i/web/status/2055064458217521341,"""ISO 27001""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['iso 27001'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",0,0,0,0,0,0
+x,2055048822775050668,2026-05-14 22:13:14+00:00,1222730534171758593,"We just solved enterprise integration.
+Make your enterprise system talk in real time.
+
+Today we're launching the Stacksync CLI
+ 5,000+ connectors. Real-time, bi-directional.
+ SOC 2, ISO 27001, HIPAA, GDPR.
+
+Try it 
+  $ curl -fsSL https://cli.stacksync. com/ install | sh https://t.co/0FEJB7fF5U",https://x.com/i/web/status/2055048822775050668,"""ISO 27001""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['iso 27001'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",2,0,0,0,2,0
+x,2055034574908874961,2026-05-14 21:16:38+00:00,1113960848823865344,"@Geraldonjqe Normas relevantes:
+ISO 14001 → Gestão ambiental
+ISO 45001 → Saúde e segurança
+ISO 27001 → Segurança da informação
+ISO 20022  &gt; Intermediçao eletrônica",https://x.com/i/web/status/2055034574908874961,"""ISO 27001""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['iso 27001'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",3,0,0,0,3,5
+x,2055031129573568756,2026-05-14 21:02:56+00:00,1730324344339841024,"Q1 shipped🚀
+
+ISO 27001 ✓ · GDPR aligned ✓ · Event Simulator ✓ · Activity Log ✓ · Dashboard insights ✓ · Klaviyo rebuild ✓ · Shopify app published ✓ · @smilerewards integration ✓ · Infra upgrades ✓
+
+Proud of the team. Q2 is going to be even bigger.
+
+Full recap ⬇️",https://x.com/i/web/status/2055031129573568756,"""ISO 27001""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['iso 27001'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",3,0,2,0,5,0
+x,2054934757033590966,2026-05-14 14:39:59+00:00,2892921025,"The Foxconn cyberattack is a reminder that manufacturers remain prime ransomware targets due to operational downtime and valuable IP.
+
+Prevention and visibility are critical to reducing cyber risk before disruption occurs.
+
+https://t.co/HYFCKy1s33
+
+#Manufacturing #Ransomware https://t.co/qfVdHLS6xk",https://x.com/i/web/status/2054934757033590966,"""manufacturing ransomware""",INDUSTRY_RISK,INDUSTRY_RISK,100,"['ransomware target', 'ransomware targets', '#manufacturing #ransomware', 'manufacturing #ransomware']",15,Low,False,Post references an industry-wide ransomware event that typically lifts buyer urgency.,Share a peer-segment briefing on what is working post-incident. Not a fear pitch.,Internal suggestion: share a sector-specific lessons-learned brief. Do not claim the prospect is compromised.,0,0,0,0,0,4
+x,2054858653942116493,2026-05-14 09:37:35+00:00,1518259541531848704,"2. IT / SecOps — the second bucket.
+
+Asset inventory across every laptop and server. Endpoint compliance checks. Quarterly access reviews. Patch management evidence. Offboarding cleanup with receipts.
+
+The work that's invisible until someone's missing from the report.",https://x.com/i/web/status/2054858653942116493,"""endpoint compliance""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['endpoint compliance'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",0,1,0,0,1,5
+x,2054852968004898994,2026-05-14 09:14:59+00:00,1288177031306305536,Think security questionnaire automation = problem solved? Here’s the hard truth: ❌ SOC 2 ≠ free pass ❌ Trust center ≠ shortcut ❌ Automation ≠ assurance. We break down the 5 truths no vendor will tell you: https://t.co/j9RUzNIcYR,https://x.com/i/web/status/2054852968004898994,"""security questionnaire""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['security questionnaire'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",0,0,0,0,0,5
+x,2054723062411751775,2026-05-14 00:38:47+00:00,2053709779697283072,"Enterprise customers ask hard security questions before they buy.
+
+I made a Security Questionnaire Answer Kit for small SaaS teams:
+• 100 answers
+• Security FAQ
+• Policy templates
+• Incident runbook
+• Evidence checklist
+Get it here:
+[https://t.co/pi7GOfmjxn]",https://x.com/i/web/status/2054723062411751775,"""security questionnaire""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['security questionnaire'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",0,0,0,0,0,0
+x,2054652934428746221,2026-05-13 20:00:07+00:00,1859780116014141440,"Qilin claims a ransomware attack on Spirit Medical Transport in the US, with unauthorized encryption activity reported in the healthcare sector. #UnitedStates #Healthcare #Ransomware
+https://t.co/Xn6oE0Q8K0",https://x.com/i/web/status/2054652934428746221,"""healthcare ransomware""",INDUSTRY_RISK,INDUSTRY_RISK,100,"['ransomware attack on', 'ransomware attack', '#healthcare #ransomware', 'healthcare #ransomware']",15,Low,True,Post references an industry-wide ransomware event that typically lifts buyer urgency.,Share a peer-segment briefing on what is working post-incident. Not a fear pitch.,Internal suggestion: share a sector-specific lessons-learned brief. Do not claim the prospect is compromised.,1,0,0,0,1,4
+x,2054412361830666751,2026-05-13 04:04:10+00:00,715059819,"Real talk: compliance frameworks don't catch the actual threat. They catch the documented one. OAuth misconfig at a 300-person company doesn't show up in a SOC 2 audit until someone's already inside. $NRED +20% on structure, not proof. Same lesson. $COPX $TSXV #InfoSec https://t.co/X4fgnTvEFP",https://x.com/i/web/status/2054412361830666751,"""SOC 2 audit""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['soc 2 audit'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",0,0,0,0,0,5
+x,2054384100757131680,2026-05-13 02:11:52+00:00,1657072307351986181,@alxfazio medieval scribes had less paperwork than a SOC 2 audit,https://x.com/i/web/status/2054384100757131680,"""SOC 2 audit""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['soc 2 audit'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",1,0,0,0,1,5
+x,2054286767398740318,2026-05-12 19:45:06+00:00,1859780116014141440,"Bestat Pharmaservices Corp. in Taiwan reported a ransomware attack by worldleaks, causing file encryption, service disruption, and possible data exposure. #Taiwan #Healthcare #Ransomware
+https://t.co/FxUYk02TwN",https://x.com/i/web/status/2054286767398740318,"""healthcare ransomware""",INDUSTRY_RISK,INDUSTRY_RISK,100,"['ransomware attack', '#healthcare #ransomware', 'healthcare #ransomware']",15,Low,True,Post references an industry-wide ransomware event that typically lifts buyer urgency.,Share a peer-segment briefing on what is working post-incident. Not a fear pitch.,Internal suggestion: share a sector-specific lessons-learned brief. Do not claim the prospect is compromised.,0,0,0,0,0,4
+x,2053973969179492566,2026-05-11 23:02:09+00:00,250515353,"@michaelrobmedia @UNTsocial WXB Opportunity — Mobile App Testing — $100–$500
+
+Connect With Peers:
+https://t.co/D5wrfI3yUI
+https://t.co/RwnqfJYDS8
+
+Did you know that cyber insurance requirements are influencing security practices?
+
+#Onlinelearning #highered #innovation #STEM #education",https://x.com/i/web/status/2053973969179492566,"""cyber insurance requirements""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['cyber insurance requirement'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",1,0,0,0,1,0
+x,2053970096616325508,2026-05-11 22:46:46+00:00,250515353,"WXB Opportunity — Mobile App Testing — $100–$500
+
+Connect With Peers:
+https://t.co/D5wrfI3yUI
+https://t.co/RwnqfJYDS8
+
+Did you know that cyber insurance requirements are influencing security practices?
+
+#STEM #education #entrepreneurship
+
+* See Comments for Workforce Insights https://t.co/HBBdn1wjwg",https://x.com/i/web/status/2053970096616325508,"""cyber insurance requirements""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['cyber insurance requirement'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",2,1,0,0,3,0
+x,2053788459857313936,2026-05-11 10:45:01+00:00,1288177031306305536,"AI-only security questionnaire tools promise speed. But hallucinated answers, broken audit trails, and unapproved responses come at a cost. Before you buy, know what questions to ask. Our 2026 Buyer’s Guide helps you evaluate tools the right way. https://t.co/OVrAK1XdDz https://t.co/YNIGVwUZzb",https://x.com/i/web/status/2053788459857313936,"""security questionnaire""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['security questionnaire'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",0,0,0,0,0,3
+x,2053017968540258354,2026-05-09 07:43:21+00:00,45223428,@strehldev *Security questionnaire enters the room*,https://x.com/i/web/status/2053017968540258354,"""security questionnaire""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['security questionnaire'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",1,0,0,0,1,2
+x,2052887957196218649,2026-05-08 23:06:44+00:00,48641089,@alexvoica @mtschammer @synthesiaIO @lukeknight @Ronanchamberss @etnshow Training a security questionnaire agent on internal security docs is the right first deployment for a security org. The recursive question: who red-teams the agent that answers questions about your security posture? Treat it as an insider threat from day one.,https://x.com/i/web/status/2052887957196218649,"""security questionnaire""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['security questionnaire'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",1,1,0,0,2,2
+x,2052822503450665409,2026-05-08 18:46:39+00:00,1830838988476948483,"How a SOC 2 Audit Firm Evaluates Security Controls
+visit Now at- https://t.co/Mh8sQoIGHF https://t.co/6TDHU9cGmX",https://x.com/i/web/status/2052822503450665409,"""SOC 2 audit""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['soc 2 audit'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",0,0,0,0,0,5
+x,2052799545831277009,2026-05-08 17:15:25+00:00,2052782311163441152,"We aggregated findings from 50 production Kafka clusters.
+
+80% would fail a SOC 2 audit today. Same 7 anti-patterns, every time.
+
+Full breakdown — including the SOC 2 control mapping for each — just published:
+
+https://t.co/YXcSVIadre
+
+#kafka #soc2 #security #compliance https://t.co/JKcK4W9Krq",https://x.com/i/web/status/2052799545831277009,"""SOC 2 audit""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['soc 2 audit'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",0,0,0,0,0,5
+x,2052678895049068674,2026-05-08 09:16:00+00:00,4289191708,Tanium launches cybersecurity compliance framework for Malaysian financial sector: Tanium has launched a new endpoint compliance and incident response framework aimed at helping Malaysian banks and financial institutions comply with cybe... https://t.co/8tWO7preNE,https://x.com/i/web/status/2052678895049068674,"""endpoint compliance""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['endpoint compliance'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",0,0,0,0,0,4
+x,2052661398824792232,2026-05-08 08:06:28+00:00,1696257299222855680,last night was a SOC 2 audit,https://x.com/i/web/status/2052661398824792232,"""SOC 2 audit""",COMPLIANCE_TRIGGER,COMPLIANCE_TRIGGER,60,['soc 2 audit'],15,Low,False,Post references a compliance or insurance trigger that often forces endpoint upgrades.,Lead with mapped controls (SOC 2 / ISO 27001 / cyber insurance) and an endpoint checklist.,"Internal suggestion: send a control-mapping checklist (SOC 2 / ISO 27001 / cyber insurance) framed as helpful, not promotional.",0,0,0,0,0,5
+x,2054962474730881128,2026-05-14 16:30:07+00:00,1223294547817451520,Are you an IT defender or a spy hunter? 🕵️ Former FBI operative Eric O'Neill shares why CISOs need a counterintelligence mindset on Part 1 of The New CISO Podcast. Watch now! 🔗 https://t.co/azRc6pNbtj https://t.co/t5RT6chERf,https://x.com/i/web/status/2054962474730881128,"""new CISO""",HIRING_SIGNAL,HIRING_SIGNAL,60,['new ciso'],12,Low,False,Post indicates a hiring or leadership change that usually re-opens the security stack review.,"Offer a stack-review conversation with the new leader. No pitch, just listening.","Internal suggestion: send a brief, non-pitchy congrats note and offer a peer intro if useful.",1,0,0,1,2,1
+x,2054958728823075217,2026-05-14 16:15:14+00:00,2048785934817128448,Excited to welcome Jeremy Powell as our new CISO and Ben Cody as SVP of Product Management to Sumo Logic. Looking forward to the impact these new leaders will have! Read more about these new additions to the team: https://t.co/YfwekxMUMh https://t.co/me8a9zmGZh,https://x.com/i/web/status/2054958728823075217,"""new CISO""",HIRING_SIGNAL,HIRING_SIGNAL,60,['new ciso'],12,Low,False,Post indicates a hiring or leadership change that usually re-opens the security stack review.,"Offer a stack-review conversation with the new leader. No pitch, just listening.","Internal suggestion: send a brief, non-pitchy congrats note and offer a peer intro if useful.",0,0,0,0,0,0
+x,2054921045858017299,2026-05-14 13:45:30+00:00,2498236849,"Average ransom demands surge for healthcare ransomware attacks in 2026
+https://t.co/W4O5qpjiDS",https://x.com/i/web/status/2054921045858017299,"""healthcare ransomware""",INDUSTRY_RISK,INDUSTRY_RISK,80,"['healthcare ransomware', 'ransomware attack']",12,Low,False,Post references an industry-wide ransomware event that typically lifts buyer urgency.,Share a peer-segment briefing on what is working post-incident. Not a fear pitch.,Internal suggestion: share a sector-specific lessons-learned brief. Do not claim the prospect is compromised.,0,0,0,0,0,4
+x,2054917793196187993,2026-05-14 13:32:35+00:00,60914226,Hiring! SOC Analyst - Central Government - #Corsham. https://t.co/o5ycZzDyZa https://t.co/fvn9S3u8fc,https://x.com/i/web/status/2054917793196187993,"""hiring SOC analyst""",HIRING_SIGNAL,HIRING_SIGNAL,60,['hiring! soc analyst'],12,Low,False,Post indicates a hiring or leadership change that usually re-opens the security stack review.,"Offer a stack-review conversation with the new leader. No pitch, just listening.","Internal suggestion: send a brief, non-pitchy congrats note and offer a peer intro if useful.",0,0,0,0,0,0
+x,2054841685805285833,2026-05-14 08:30:09+00:00,1859780116014141440,"Allele Diagnostics in France was hit by Akira ransomware, disrupting neonatal, pediatric, and prenatal testing. Attackers claim theft of corporate, employee, and patient data. #France #Healthcare #Ransomware
+https://t.co/ktx98Z6E9M",https://x.com/i/web/status/2054841685805285833,"""healthcare ransomware""",INDUSTRY_RISK,INDUSTRY_RISK,80,"['#healthcare #ransomware', 'healthcare #ransomware']",12,Low,True,Post references an industry-wide ransomware event that typically lifts buyer urgency.,Share a peer-segment briefing on what is working post-incident. Not a fear pitch.,Internal suggestion: share a sector-specific lessons-learned brief. Do not claim the prospect is compromised.,1,0,0,0,1,4
+x,2054598110434009365,2026-05-13 16:22:16+00:00,245458093,"Nevada survived a 28-day ransomware attack that shut down state systems. The state refused to pay criminals — and now new CISO Bert Carroll is focused on transparency, accountability, and “being brilliant at the basics.”
+
+(Brittany Sheehan)
+https://t.co/68AADFNv2m",https://x.com/i/web/status/2054598110434009365,"""new CISO""",HIRING_SIGNAL,HIRING_SIGNAL,60,['new ciso'],12,Low,False,Post indicates a hiring or leadership change that usually re-opens the security stack review.,"Offer a stack-review conversation with the new leader. No pitch, just listening.","Internal suggestion: send a brief, non-pitchy congrats note and offer a peer intro if useful.",3,0,1,0,4,4
+x,2054472513259028682,2026-05-13 08:03:12+00:00,976440943720255489,"We’re Hiring: SOC Analyst 
+If you thrive in fast-paced cyber defense environments and have hands-on experience in SOC operations, incident response, and threat analysis, we’d love to connect with you.
+#ALTEN #ALTENIndia #Hiring #Careers #SOCAnalyst #JoinUs #BuildingTomorrowsWorld https://t.co/Xtuk4qhic8",https://x.com/i/web/status/2054472513259028682,"""hiring SOC analyst""",HIRING_SIGNAL,HIRING_SIGNAL,60,['hiring: soc analyst'],12,Low,False,Post indicates a hiring or leadership change that usually re-opens the security stack review.,"Offer a stack-review conversation with the new leader. No pitch, just listening.","Internal suggestion: send a brief, non-pitchy congrats note and offer a peer intro if useful.",1,0,0,0,1,0
+x,2054396240222171558,2026-05-13 03:00:07+00:00,1859780116014141440,"NTN Bearing Corporation of America was reportedly hit by the payoutsking ransomware group, disrupting operations at the US manufacturing subsidiary of NTN Corporation. #UnitedStates #Manufacturing #Ransomware
+https://t.co/76szEGfbaI",https://x.com/i/web/status/2054396240222171558,"""manufacturing ransomware""",INDUSTRY_RISK,INDUSTRY_RISK,80,"['#manufacturing #ransomware', 'manufacturing #ransomware']",12,Low,True,Post references an industry-wide ransomware event that typically lifts buyer urgency.,Share a peer-segment briefing on what is working post-incident. Not a fear pitch.,Internal suggestion: share a sector-specific lessons-learned brief. Do not claim the prospect is compromised.,1,0,0,0,1,4
+x,2054214759059505188,2026-05-12 14:58:58+00:00,1580627155016306688,"More LAUSD senior management salary fun facts, including quiet retirement of Chief Academic Officer Frances Baez, with new contract ending in August 2026.
+
+New CIO, after Sohiel Katal’s abrupt departure in February amid chatbot and money laundering fiascoes.
+🧵2/4 https://t.co/u3ZRb8dTGi",https://x.com/i/web/status/2054214759059505188,"""new CIO""",HIRING_SIGNAL,HIRING_SIGNAL,60,['new cio'],12,Low,False,Post indicates a hiring or leadership change that usually re-opens the security stack review.,"Offer a stack-review conversation with the new leader. No pitch, just listening.","Internal suggestion: send a brief, non-pitchy congrats note and offer a peer intro if useful.",0,1,0,0,1,0
+x,2054158414993830276,2026-05-12 11:15:05+00:00,1859780116014141440,"SmilePoint Dental Group was reportedly hit by spacebears ransomware, with alleged theft of patient data, SSNs, medical histories, financial reports, and EagleSoft database access across Texas and New Mexico. #UnitedStates #Healthcare #Ransomware
+https://t.co/lEAXzUALSJ",https://x.com/i/web/status/2054158414993830276,"""healthcare ransomware""",INDUSTRY_RISK,INDUSTRY_RISK,80,"['#healthcare #ransomware', 'healthcare #ransomware']",12,Low,True,Post references an industry-wide ransomware event that typically lifts buyer urgency.,Share a peer-segment briefing on what is working post-incident. Not a fear pitch.,Internal suggestion: share a sector-specific lessons-learned brief. Do not claim the prospect is compromised.,0,0,0,0,0,4
+x,2054119486697943154,2026-05-12 08:40:23+00:00,1410330404247293953,"Startimes Uganda is hiring IT Manager
+
+Details: https://t.co/gbxIXOI7TJ
+
+#JobsInUganda",https://x.com/i/web/status/2054119486697943154,"""hiring IT manager""",HIRING_SIGNAL,HIRING_SIGNAL,60,['hiring it manager'],12,Low,False,Post indicates a hiring or leadership change that usually re-opens the security stack review.,"Offer a stack-review conversation with the new leader. No pitch, just listening.","Internal suggestion: send a brief, non-pitchy congrats note and offer a peer intro if useful.",11,0,0,0,11,0
+x,2053901573575659686,2026-05-11 18:14:29+00:00,2015150564896546816,"87% of businesses hit by AI-driven cyberattacks in 2025. SMBs are now the #1 target.
+
+Manufacturing ransomware attacks up 61%. Healthcare: 120 attacks in Q1 2026 alone.
+
+NexusAI stops AI-powered threats before they reach your network. Built for SMBs. → https://t.co/um3dHzvI5D",https://x.com/i/web/status/2053901573575659686,"""manufacturing ransomware""",INDUSTRY_RISK,INDUSTRY_RISK,80,"['manufacturing ransomware', 'ransomware attack']",12,Low,False,Post references an industry-wide ransomware event that typically lifts buyer urgency.,Share a peer-segment briefing on what is working post-incident. Not a fear pitch.,Internal suggestion: share a sector-specific lessons-learned brief. Do not claim the prospect is compromised.,0,0,0,0,0,4
+x,2053841628964520349,2026-05-11 14:16:17+00:00,45484313,HHS OCR HIPAA Ransomware Settlements: $1.165M Across Four Healthcare Entities #cybersecurity #HIPAA #compliance #healthcare #ransomware #OCR https://t.co/gxhAV3MbkO,https://x.com/i/web/status/2053841628964520349,"""healthcare ransomware""",INDUSTRY_RISK,INDUSTRY_RISK,80,"['#healthcare #ransomware', 'healthcare #ransomware']",12,Low,False,Post references an industry-wide ransomware event that typically lifts buyer urgency.,Share a peer-segment briefing on what is working post-incident. Not a fear pitch.,Internal suggestion: share a sector-specific lessons-learned brief. Do not claim the prospect is compromised.,0,0,0,0,0,4
+x,2053829341503533264,2026-05-11 13:27:27+00:00,2805681330,"We’re delighted to announce Ben Connard as Carnegie’s new CIO! 🎉
+
+In this role, Ben will lead investment strategy and portfolio construction across the firm’s growing national platform, reinforcing our firm’s disciplined, long-term investment approach. https://t.co/vfSRcbaVpR",https://x.com/i/web/status/2053829341503533264,"""new CIO""",HIRING_SIGNAL,HIRING_SIGNAL,60,['new cio'],12,Low,False,Post indicates a hiring or leadership change that usually re-opens the security stack review.,"Offer a stack-review conversation with the new leader. No pitch, just listening.","Internal suggestion: send a brief, non-pitchy congrats note and offer a peer intro if useful.",1,1,0,0,2,0
+x,2053109782182076533,2026-05-09 13:48:11+00:00,1963585327857082368,"@JBirdCyber Ohk,Are you hiring SoC analyst",https://x.com/i/web/status/2053109782182076533,"""hiring SOC analyst""",HIRING_SIGNAL,HIRING_SIGNAL,60,['hiring soc analyst'],12,Low,False,Post indicates a hiring or leadership change that usually re-opens the security stack review.,"Offer a stack-review conversation with the new leader. No pitch, just listening.","Internal suggestion: send a brief, non-pitchy congrats note and offer a peer intro if useful.",0,1,0,0,1,0
+x,2052872187191632382,2026-05-08 22:04:04+00:00,1340714198385520646,lmfao new cio is gonna fuck me on my job promotion cause he wants to bring in his team from his previous job so cool i might be jobless soon if this rly happens,https://x.com/i/web/status/2052872187191632382,"""new CIO""",HIRING_SIGNAL,HIRING_SIGNAL,60,['new cio'],12,Low,False,Post indicates a hiring or leadership change that usually re-opens the security stack review.,"Offer a stack-review conversation with the new leader. No pitch, just listening.","Internal suggestion: send a brief, non-pitchy congrats note and offer a peer intro if useful.",1,0,0,0,1,0
+x,2052844188153049456,2026-05-08 20:12:49+00:00,22873424,"🔗https://t.co/bXNg8aSPyF
+AI workarounds feel productive until they become infrastructure. In a new CIO Online column, Kasey Roh explains why AI sprawl is accelerating faster than governance can keep up with and why the cost curve is about to spike. Read now.
+
+#FoundryExpert https://t.co/F5VKop0DQN",https://x.com/i/web/status/2052844188153049456,"""new CIO""",HIRING_SIGNAL,HIRING_SIGNAL,60,['new cio'],12,Low,False,Post indicates a hiring or leadership change that usually re-opens the security stack review.,"Offer a stack-review conversation with the new leader. No pitch, just listening.","Internal suggestion: send a brief, non-pitchy congrats note and offer a peer intro if useful.",1,1,0,1,3,3
+x,2054246281241858146,2026-05-12 17:04:14+00:00,947796273037496323,@WallStreetMav The hospital ransomware stories are terrifying. It’s hard to imagine how any bill can be finalized without first making sure those specific gaps are actually covered.,https://x.com/i/web/status/2054246281241858146,"""hospital ransomware""",INDUSTRY_RISK,INDUSTRY_RISK,60,['hospital ransomware'],9,Low,False,Post references an industry-wide ransomware event that typically lifts buyer urgency.,Share a peer-segment briefing on what is working post-incident. Not a fear pitch.,Internal suggestion: share a sector-specific lessons-learned brief. Do not claim the prospect is compromised.,1,0,0,0,1,4
+x,2052909028083220924,2026-05-09 00:30:28+00:00,1159818353973895168,"📱 APT27 Turns Trusted Apps Into Silent Weapons as Healthcare #Ransomware Crisis Escalates
+
+-Fact Checker: ✅: 1 ❌: 0 || 1/1
+
+https://t.co/l14MGeuHiM",https://x.com/i/web/status/2052909028083220924,"""healthcare ransomware""",INDUSTRY_RISK,INDUSTRY_RISK,60,['healthcare #ransomware'],9,Low,False,Post references an industry-wide ransomware event that typically lifts buyer urgency.,Share a peer-segment briefing on what is working post-incident. Not a fear pitch.,Internal suggestion: share a sector-specific lessons-learned brief. Do not claim the prospect is compromised.,0,0,0,0,0,4
+x,2052720895584538759,2026-05-08 12:02:53+00:00,722608963,"AI governance is tightening, healthcare ransomware is rising, and investors want real AI ROI. Innovation alone isn’t enough—leaders must prove control, security, and business value. #CyberSecurity #AIstrategy #TechLeadership #CurrentTEKSolutions https://t.co/P1Z5P69tma",https://x.com/i/web/status/2052720895584538759,"""healthcare ransomware""",INDUSTRY_RISK,INDUSTRY_RISK,60,['healthcare ransomware'],9,Low,False,Post references an industry-wide ransomware event that typically lifts buyer urgency.,Share a peer-segment briefing on what is working post-incident. Not a fear pitch.,Internal suggestion: share a sector-specific lessons-learned brief. Do not claim the prospect is compromised.,0,0,0,0,0,4
+x,2055117333543481748,2026-05-15 02:45:29+00:00,1688006039982231553,"@warDaniel47 Trigger alert, Fatigue.",https://x.com/i/web/status/2055117333543481748,"""alert fatigue""",OPERATIONAL_PAIN,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,1,0,0,0,1,2
+x,2055094739922243687,2026-05-15 01:15:42+00:00,2045537517290557440,"@MessariCrypto Alert fatigue is real. Traders tuning out noise miss the signals that matter — funding flips, OI divergence, exchange inflows spiking before a move. Customization isn't a feature.",https://x.com/i/web/status/2055094739922243687,"""alert fatigue""",OPERATIONAL_PAIN,NONE,0,"['demoted_from_OPERATIONAL_PAIN', '@messaricrypto', 'traders tuning', 'funding flips', 'exchange inflows']",0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,0,0,0,0,0,3
+x,2055040514550890540,2026-05-14 21:40:14+00:00,140928235,"@matty_prior Defender not noisy and uncomfortable enough, clearly....",https://x.com/i/web/status/2055040514550890540,"(""Defender"" OR ""Microsoft Defender"") (""noisy"" OR ""false positives"" OR ""switching from"")",COMPETITOR_PAIN,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,5,1,0,0,6,2
+x,2055039978636198397,2026-05-14 21:38:06+00:00,1786905810305781760,"@SteveHiltonx @XavierBecerra 🚨🚨Corruption alert fatigue! Nobody cares until someone, anyone, goes to jail.",https://x.com/i/web/status/2055039978636198397,"""alert fatigue""",OPERATIONAL_PAIN,NONE,0,"['demoted_from_OPERATIONAL_PAIN', 'corruption alert fatigue']",0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,0,0,0,0,0,2
+x,2054986775173472468,2026-05-14 18:06:41+00:00,1636206958712705026,"@mr_kay7 @JavierDefends EDR (Endpoint Detection and Response) alerts are warnings generated when a device does something suspicious or potentially malicious. Instead of only looking for known viruses, EDR tools monitor behavior in real time, like PowerShell running encoded commands, Word launching",https://x.com/i/web/status/2054986775173472468,"(""looking for"" OR recommend OR ""any recommendations"") (""EDR"" OR ""endpoint security"" OR ""MDR"" OR ""XDR"")",BUYING_INTENT,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,1,1,0,0,2,2
+x,2054935511672750550,2026-05-14 14:42:59+00:00,917802634458882048,"100% protection, zero false positives and stellar performance for Microsoft Defender in the SE Labs April 2026 tests for enterprise and consumers published yesterday
+
+Enterprise 
+
+https://t.co/1qPkuzYAkj
+
+SMB 
+
+https://t.co/YAfqOWLELc
+
+Consumer
+
+https://t.co/dBRMOUrnHb https://t.co/8KN6iqg3Fk",https://x.com/i/web/status/2054935511672750550,"(""Defender"" OR ""Microsoft Defender"") (""noisy"" OR ""false positives"" OR ""switching from"")",COMPETITOR_PAIN,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,2,0,0,0,2,2
+x,2054910872334598229,2026-05-14 13:05:05+00:00,736472070,"""The First 100 Days of the New #CISO - A #Leadership Guide to Lasting Impact"", a new #book by our Founder &amp; #CEO JC Gaillard @Corix_JC
+
+How to shape the agenda instead of reacting to it
+
+Buy It Here on @Amazon &gt;&gt; https://t.co/BFF24brwIW
+
+#cybersecurity #tech #business #governance https://t.co/eKWUyEH2rh",https://x.com/i/web/status/2054910872334598229,"""new CISO""",HIRING_SIGNAL,NONE,0,"['demoted_from_HIRING_SIGNAL', 'first 100 days', 'leadership guide', 'buy it here', 'book by our']",0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,4,0,1,0,5,1
+x,2054845450541257066,2026-05-14 08:45:07+00:00,4241031461,"Launching ""The First 100 Days of the New #CISO: A #Leadership Guide to Lasting Impact"", a new book by @CorixPartners Founder &amp; CEO @Corix_JC
+
+Buy it here on @Amazon &gt;&gt; https://t.co/42K4nFz6oc 
+
+Read the Author's Summary here &gt;&gt; https://t.co/jYEvEF4V5q 
+
+#business #cybersecurity https://t.co/ChhlwRBa7I",https://x.com/i/web/status/2054845450541257066,"""new CISO""",HIRING_SIGNAL,NONE,0,"['demoted_from_HIRING_SIGNAL', 'first 100 days', 'leadership guide', 'buy it here', 'new book by']",0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,4,1,3,0,8,1
+x,2054820272297971801,2026-05-14 07:05:04+00:00,736472070,"""The First 100 Days of the New #CISO - A #Leadership Guide to Lasting Impact"", a new #book by our Founder &amp; #CEO JC Gaillard @Corix_JC
+
+A pragmatic guide that redefines the role itself
+
+Buy It Here on @Amazon &gt;&gt; https://t.co/BFF24brwIW 
+
+#cybersecurity #tech #business #CIO #CTO https://t.co/H8e2GwRSYo",https://x.com/i/web/status/2054820272297971801,"""new CISO""",HIRING_SIGNAL,NONE,0,"['demoted_from_HIRING_SIGNAL', 'first 100 days', 'leadership guide', 'buy it here', 'book by our']",0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,4,0,4,0,8,1
+x,2054729673230213559,2026-05-14 01:05:03+00:00,3345194367,"The First 100 Days of the New #CISO &gt;&gt; A #Leadership Guide to Lasting Impact
+
+How to build #resilience, trust and long-term impact across the enterprise
+
+Buy it here on @Amazon &gt;&gt; https://t.co/K5tW98ou3Y 
+
+Read my Author's Summary here &gt;&gt; https://t.co/nw3VGW1JKr 
+
+#cybersecurity https://t.co/QPBlImVN9B",https://x.com/i/web/status/2054729673230213559,"""new CISO""",HIRING_SIGNAL,NONE,0,"['demoted_from_HIRING_SIGNAL', 'first 100 days', 'leadership guide', 'buy it here']",0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,6,0,4,1,11,1
+x,2054664261574557853,2026-05-13 20:45:08+00:00,4241031461,"Launching ""The First 100 Days of the New #CISO: A #Leadership Guide to Lasting Impact"", a new book by @CorixPartners Founder &amp; CEO @Corix_JC
+
+Buy it here on @Amazon &gt;&gt; https://t.co/42K4nFz6oc 
+
+Read the Author's Summary here &gt;&gt; https://t.co/jYEvEF4V5q 
+
+#business #cybersecurity https://t.co/21wktGK36s",https://x.com/i/web/status/2054664261574557853,"""new CISO""",HIRING_SIGNAL,NONE,0,"['demoted_from_HIRING_SIGNAL', 'first 100 days', 'leadership guide', 'buy it here', 'new book by']",0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,5,0,4,0,9,1
+x,2054641597170520519,2026-05-13 19:15:04+00:00,1271029300595232769,"Check It Out &gt;&gt; Episode 23 in Series 6 of the @CorixPartners Cyber #Security Transformation #Podcast, hosted by @Corix_JC
+
+Launching ""The First 100 Days of the New #CISO - A #Leadership Guide to Lasting Impact"" &gt;&gt; https://t.co/aHwkoYIa2a 
+
+#tech #cybersecurity #business #CIO #CEO https://t.co/SNqggMdmxA",https://x.com/i/web/status/2054641597170520519,"""new CISO""",HIRING_SIGNAL,NONE,0,"['demoted_from_HIRING_SIGNAL', 'first 100 days', 'leadership guide']",0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,4,0,4,0,8,1
+x,2054611414791147727,2026-05-13 17:15:08+00:00,1271029300595232769,"Check It Out &gt;&gt; Episode 22 in Series 6 of  the @CorixPartners Cyber #Security Transformation #Podcast, hosted by @Corix_JC
+
+""First 100 Days of the New #CISO &gt;&gt; The Context of #Cybersecurity Transformation"" &gt;&gt; https://t.co/ZpQsx418mg 
+
+#tech #leadership #governance #CEO #business https://t.co/HJq0qWJaZP",https://x.com/i/web/status/2054611414791147727,"""new CISO""",HIRING_SIGNAL,NONE,0,"['demoted_from_HIRING_SIGNAL', 'first 100 days']",0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,5,0,5,0,10,1
+x,2054387783255425486,2026-05-13 02:26:30+00:00,1858691537418199040,@KagelTel Interesting development. It makes sense for Microsoft to integrate this across Azure and Defender. The real test will be how well the agentic system reduces false positives and trims dwell time compared to current SOAR platforms.,https://x.com/i/web/status/2054387783255425486,"(""Defender"" OR ""Microsoft Defender"") (""noisy"" OR ""false positives"" OR ""switching from"")",COMPETITOR_PAIN,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,0,0,0,0,0,3
+x,2053867256635887695,2026-05-11 15:58:07+00:00,476141235,"Your customers need MDR they can trust. That's why we're proud to share that @Sophos is a Leader in the 2026 @KuppingerCole Analysts MDR Leadership Compass across all 4 categories.
+
+89 sec from alert to automated response. AI speed. Human accountability.
+https://t.co/6FnSnJTMzX https://t.co/yY1w6F0niL",https://x.com/i/web/status/2053867256635887695,"""need MDR""",BUYING_INTENT,NONE,0,"['demoted_from_BUYING_INTENT', 'is a leader in']",0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,0,0,0,0,0,2
+x,2053860194120012197,2026-05-11 15:30:03+00:00,3781474341,"🎬 #PowerShell Notebooks + Microsoft Defender
+@sassdawe shows how to build real-world SOC tools live on stage @ #PSConfEU 2025 (Malmö).
+False positives? Nested incidents? No secrets exposed.
+📍 #PSConfEU 2026 → https://t.co/OBieNMYErE
+#CyberSecurity #SOC https://t.co/4mY0vVZz4P",https://x.com/i/web/status/2053860194120012197,"(""Defender"" OR ""Microsoft Defender"") (""noisy"" OR ""false positives"" OR ""switching from"")",COMPETITOR_PAIN,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,3,0,1,0,4,2
+x,2053855907440701824,2026-05-11 15:13:01+00:00,1744740925593776128,Top 10 Full Disk Encryption Tools for 2026 Link: https://t.co/PLi8hjyMNP #encryption #cybersecurity #datasecurity #privacy #infosec #security #diskencryption #endpoint #compliance #ransomware #backup #authentication #cryptography #software #technology #protection #windows #linux https://t.co/re0uHyxOYH,https://x.com/i/web/status/2053855907440701824,"""endpoint compliance""",COMPLIANCE_TRIGGER,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,0,0,0,0,0,4
+x,2053844615522812415,2026-05-11 14:28:09+00:00,1501931014565740549,@revueofcrows theyr all so good. I love nonsense noisy songs more than anything so i love ideserveit Im number one golden recipe defender,https://x.com/i/web/status/2053844615522812415,"(""Defender"" OR ""Microsoft Defender"") (""noisy"" OR ""false positives"" OR ""switching from"")",COMPETITOR_PAIN,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,1,1,0,0,2,2
+x,2053843688925598051,2026-05-11 14:24:28+00:00,1963585327857082368,@tryhackme I just completed the room some days ago is pretty good I recommend it for people to learn about it . I learned that we should not rely on our traditional anti virus EDR security is a great solution. https://t.co/eLFK1QbVpv,https://x.com/i/web/status/2053843688925598051,"(""looking for"" OR recommend OR ""any recommendations"") (""EDR"" OR ""endpoint security"" OR ""MDR"" OR ""XDR"")",BUYING_INTENT,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,1,0,0,0,1,2
+x,2053671460758282723,2026-05-11 03:00:06+00:00,1799128595413020672,"The first step beyond AV is Endpoint Detection &amp; Response (EDR).
+
+Instead of looking for known malware, EDR monitors system behavior. It detects and neutralizes suspicious activity *as it happens*, stopping threats that AV has never seen before.",https://x.com/i/web/status/2053671460758282723,"(""looking for"" OR recommend OR ""any recommendations"") (""EDR"" OR ""endpoint security"" OR ""MDR"" OR ""XDR"")",BUYING_INTENT,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,0,1,0,0,1,2
+x,2053565931155058823,2026-05-10 20:00:46+00:00,809529601,"Looking for an AI solution for thwarting AI-enabled threat attacks? @Cisco AI Assistant in XDR can guide response action, reduce human errors, and improve remediation. Read this brief and contact us today. https://t.co/R9IbUOvtyF https://t.co/3C4StKMDUK",https://x.com/i/web/status/2053565931155058823,"(""looking for"" OR recommend OR ""any recommendations"") (""EDR"" OR ""endpoint security"" OR ""MDR"" OR ""XDR"")",BUYING_INTENT,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,0,0,0,0,0,3
+x,2053421493678141828,2026-05-10 10:26:49+00:00,1185904592338505729,"😭😭. MDR
+
+J’ai déjà dit que I am not looking for a relationship but if you keep texting me. When I am bored I might text you back and trust me baby it means NOTHING. Je tue seulement le temps. https://t.co/8Q9byK3K1d",https://x.com/i/web/status/2053421493678141828,"(""looking for"" OR recommend OR ""any recommendations"") (""EDR"" OR ""endpoint security"" OR ""MDR"" OR ""XDR"")",BUYING_INTENT,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,0,0,0,0,0,2
+x,2053381110202069235,2026-05-10 07:46:21+00:00,2026603907837816832,"🚀 Join the epicenter of CFS Lab development 
+
+Are you looking for up-to-date #AV/#EDR circumvention methods or the best #OffensiveSecurity solutions? 
+
+Your entrance ticket to #CFS xCommunity is already here.
+
+https://t.co/mdfwyAfrX6 https://t.co/5SVK14dDQP",https://x.com/i/web/status/2053381110202069235,"(""looking for"" OR recommend OR ""any recommendations"") (""EDR"" OR ""endpoint security"" OR ""MDR"" OR ""XDR"")",BUYING_INTENT,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,0,1,0,0,1,2
+x,2053114797265490263,2026-05-09 14:08:07+00:00,1982055186702196736,"🚀 Hiring: IT Manager | Riyadh, Saudi Arabia
+Looking for experts in Odoo ERP, Cloud Infrastructure, Cybersecurity, Microsoft 365 &amp; IT Operations. Retail sector experience preferred.
+
+Apply Now 👇
+https://t.co/M7wwT456iC
+
+#ITManager #OdooERP #SaudiJobs #CloudInfrastructure #Hiring https://t.co/gtMm2tlROl",https://x.com/i/web/status/2053114797265490263,"""hiring IT manager""",HIRING_SIGNAL,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,0,0,0,0,0,0
+x,2053081786700235131,2026-05-09 11:56:57+00:00,1957726362388594691,"lucky for me if they’re looking for someone to beat up, it would be a guy and i Don’t pass #mdr",https://x.com/i/web/status/2053081786700235131,"(""looking for"" OR recommend OR ""any recommendations"") (""EDR"" OR ""endpoint security"" OR ""MDR"" OR ""XDR"")",BUYING_INTENT,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,0,0,0,0,0,2
+x,2052964360004444609,2026-05-09 04:10:20+00:00,1496262214579556354,@iluminatibot McAfee is the worst anti virus software there is. Even built in windows defender doesn’t have 1% of the false positives McAfee does.,https://x.com/i/web/status/2052964360004444609,"(""Defender"" OR ""Microsoft Defender"") (""noisy"" OR ""false positives"" OR ""switching from"")",COMPETITOR_PAIN,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,0,0,0,0,0,2
+x,2052788215367569845,2026-05-08 16:30:24+00:00,917740766721642498,"What we look for in an MDR partner: actual humans on the keyboard at 2am, response times in minutes, plain-English communication, and accountability.
+
+Huntress passes all four. That's why we recommend them.
+
+https://t.co/aRxGA27cwU https://t.co/rW859YEKiZ",https://x.com/i/web/status/2052788215367569845,"(""looking for"" OR recommend OR ""any recommendations"") (""EDR"" OR ""endpoint security"" OR ""MDR"" OR ""XDR"")",BUYING_INTENT,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,0,0,0,0,0,2
+x,2052767816466501921,2026-05-08 15:09:20+00:00,2026004778678177792,"Defender models are only as strong as the context they carry across incidents. Yesterday's false positives, infra quirks, prior threat threads. Memory turns a smart model into a senior analyst. https://t.co/nWfrHTcpYP",https://x.com/i/web/status/2052767816466501921,"(""Defender"" OR ""Microsoft Defender"") (""noisy"" OR ""false positives"" OR ""switching from"")",COMPETITOR_PAIN,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,0,0,0,0,0,2
+x,2052690550575206541,2026-05-08 10:02:19+00:00,14333690,"IT leaders, boost trust with the SOC 2+ audit. It's the gold standard, revealing governance and ethical considerations, not to catch you out, but to improve security. #Audit #Cybersecurity #Trust https://t.co/syBKZ5eFPX",https://x.com/i/web/status/2052690550575206541,"""SOC 2 audit""",COMPLIANCE_TRIGGER,NONE,0,[],0,Ignore,False,No clear commercial signal detected.,No sales angle -- leave in the noise bucket.,No outreach suggested.,5,0,1,0,6,5
